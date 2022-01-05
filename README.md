@@ -1,1 +1,1 @@
-# Concord
+Use C++ linked lists to implement a hash table. This hash table will be encapsulated inside a class called Table (what you know as a map). Test the class in two different programs: one is a command-based test driver you will write (a program to maintain student names and scores), and the other is a C++ version of the concordance program.
